@@ -4,8 +4,6 @@ Pieces.py contains a number of classes useful for implementing board and card ga
 
 I wrote this software to relearn Python3. I typically create similar projects to these when learning a new language.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment

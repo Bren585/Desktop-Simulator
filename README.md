@@ -12,7 +12,6 @@ Used VSCode, programming in Python 3 with the Random library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python 3 Documentation](http://docs.python.org)
 * [Stack Overflow](http://stackoverflow.com)
 
